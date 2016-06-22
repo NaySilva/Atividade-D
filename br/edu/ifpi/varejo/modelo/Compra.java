@@ -60,9 +60,4 @@ public class Compra {
 	public void setCliente(Cliente cliente) {
 		this.cliente = cliente;
 	}
-
-	
-	
-	
-
 }
