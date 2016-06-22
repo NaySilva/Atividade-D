@@ -2,10 +2,9 @@ package br.edu.ifpi.varejo.modelo;
 
 public class CalculaDesconto{
 	
-	@Override
 	public double somatorioDoDesconto(Compra compra) {
 		//TODO testar somatorio do desconto com grande quantidade
-		Fidelidade fd = new Fidalidade();
+		Fidelidade fd = new Fidelidade();
 		AltoPreco ap = new AltoPreco();
 		GrandeQuantidade gq = new GrandeQuantidade();
 
